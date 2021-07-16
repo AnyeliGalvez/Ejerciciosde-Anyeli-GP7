@@ -1,0 +1,14 @@
+# Inicializar archcivos.
+git init 
+
+#cargar los archivos.
+git add .
+
+#crear el primer commit del proyecto.
+git commit -m "Inicio de proyecto ciclo 2 java"
+
+
+git remote add origin https://github.com/AnyeliGalvez/Ejerciciosde-Anyeli-GP7.git
+
+#Realizamos el push al repositorio.
+git push -u or (git push -u origin main)
